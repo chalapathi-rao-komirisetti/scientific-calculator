@@ -1,6 +1,4 @@
-## Tkinter Calculator
-
-### Scientific calculator using Python's library Tkinter
+## Scientific calculator using Python's library Tkinter
 
 
 Some explanations for each button and the function which represents are the following :
